@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "kinsmod:items/dragon_sword_fire"
+  }
+}

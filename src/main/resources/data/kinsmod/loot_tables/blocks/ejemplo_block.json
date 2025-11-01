@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "functions": [],
+      "conditions": [],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cat_spawn_egg",
+          "functions": []
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "minecraft:blocks/diamond_block"
+}

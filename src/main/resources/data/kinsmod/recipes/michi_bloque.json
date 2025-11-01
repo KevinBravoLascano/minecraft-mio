@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OOO",
+    "OVO"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:leather"
+    },
+    "V": [
+      {
+        "item": "minecraft:pufferfish"
+      },
+      {
+        "item": "minecraft:tropical_fish"
+      }
+    ]
+
+  },
+  "result": {
+    "item": "kinsmod:ejemplo_block",
+    "count": 5
+  }
+}

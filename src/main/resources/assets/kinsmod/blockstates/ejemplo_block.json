@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "kinsmod:block/ejemplo_block"
+    }
+  }
+}
